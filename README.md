@@ -71,3 +71,25 @@ document.head.appendChild(script);
 document.notimer = true;
 ```
 Remember about the commas delimetering image objects!
+
+### Issues not opened so i will info you here:
+
+```javascript
+var colornames = [
+'white',
+'lightgray',
+'gray',
+'black',
+     **'pink',**
+'red',
+'orange',
+'brown',
+'yellow',
+'lightgreen',
+'green',
+'aqua',
+'darkblue',
+        **'pink',**
+'magenta'
+];
+```
